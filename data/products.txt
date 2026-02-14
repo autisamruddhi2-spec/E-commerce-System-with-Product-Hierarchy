@@ -1,0 +1,6 @@
+E1,Electronics,Smartphone,50000,Latest 5G Smartphone,10,Samsung,24
+C1,Clothing,T-Shirt,1200,Cotton T-Shirt,50,M,Blue
+B1,Book,Java Programming,800,Learn Java from scratch,30,John Doe,ISBN123
+E2,Electronics,Laptop,75000,High Performance Laptop,5,Dell,12
+C2,Clothing,Jeans,2500,Denim Jeans,40,L,Black
+B2,Book,Data Structures,900,DSA Concepts,20,Mark Lee,ISBN456
